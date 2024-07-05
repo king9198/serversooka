@@ -2,10 +2,10 @@
 
 #EXTM3U billed-msg="THANK YOU SUPPORT BOSS"
 
-#EXTINF:-1 group-title="INI DAH ORIGINAL" group-logo="https://i.ibb.co/dBpcjkB/IMG-6206.jpg" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.ibb.co/tKsJDpt/IMG-6210.png", ❌ ZAYANZACK STORE BUKAN ❌❌ TENGOK VIDEO 👇🏻
-https://drive.usercontent.google.com/download?id=1d4pZdPQw_kZkdWx7AvGxElMP2GgiWbE6&export=download
+#EXTINF:-1 group-title="INI DAH ORIGINAL" group-logo="https://i.ibb.co/dBpcjkB/IMG-6206.jpg" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.ibb.co/tKsJDpt/IMG-6210.png", THANK YOU SUPPORT
+https://drive.google.com/file/d/1l6K-rliAP7l7FBfB3OYJN8UixYGRQxVX/view?usp=drivesdk
 
-#EXTINF:-1 group-title="ID BANNED JIKA TAK BELI DI bodo" group-logo="https://i.ibb.co/dBpcjkB/IMG-6206.jpg" tvg-id="ZAYANZACK" ch-number="104" tvg-name="ZAYANZACK" tvg-logo="https://i.ibb.co/tKsJDpt/IMG-6210.png", BUY DI SHOPEE ZAYANZACK SAHAJA ( TENGOK VIDEO )
+#EXTINF:-1 group-title="ONLY ORDER IN ~ https://mylink.la/sooka " group-logo="https://i.ibb.co/dBpcjkB/IMG-6206.jpg" tvg-id="ZAYANZACK" ch-number="104" tvg-name="ZAYANZACK" tvg-logo="https://i.ibb.co/tKsJDpt/IMG-6210.png", BUY DI SHOPEE ZAYANZACK SAHAJA ( TENGOK VIDEO )
 https://drive.usercontent.google.com/download?id=1d4pZdPQw_kZkdWx7AvGxElMP2GgiWbE6&export=download
 
 ############## EURO 2024 #################
