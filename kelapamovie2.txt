@@ -2,8 +2,8 @@
 
 #EXTM3U billed-msg="THANK YOU SUPPORT"
 
-#EXTINF:-1 group-title="WELCOME" group-logo=":https://i.ibb.co/zbhCXh1/Sooka.png" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.ibb.co/zbhCXh1/Sooka.png", THANKS
-https://drive.usercontent.google.com/https://i.ibb.co/zbhCXh1/Sooka.png?id=1l6K-rliAP7l7FBfB3OYJN8UixYGRQxVX&export=download
+#EXTINF:-1 group-title="WELCOME" group-logo=":https://i.ibb.co/zbhCXh1/Sooka.png" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.ibb.co/zbhCXh1/Sooka.png", WELCOME
+https://drive.usercontent.google.com/download?id=1l6K-rliAP7l7FBfB3OYJN8UixYGRQxVX&export=download
 
 #EXTINF:-1 group-title="THANKS" group-logo="https://i.ibb.co/zbhCXh1/Sooka.png" tvg-id="ZAYANZACK" ch-number="104" tvg-name="ZAYANZACK" tvg-logo="https://i.ibb.co/zbhCXh1/Sooka.png", THANKS
 https://drive.usercontent.google.com/download?id=1l6K-rliAP7l7FBfB3OYJN8UixYGRQxVX&export=download
