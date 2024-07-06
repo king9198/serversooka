@@ -3,7 +3,8 @@
 #EXTM3U billed-msg="⚠️ SERVER ORI HANYA DI -  https://mylink.la/sooka , HATI ii , salah beli akan di ban ⚠️"
 
 #EXTINF:-1 group-title="1. ORIGINAL HANYA DI - https://mylink.la/sooka  " group-logo=":https://i.ibb.co/XJSskLN/sooka-logo.png" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.ibb.co/XJSskLN/sooka-logo.png", WELCOME
-https://drive.usercontent.google.com/download?id=1lQOSBMWtbTVU7ldWRoh3mfpgUgt2F51G&export=download
+https://www.kapwing.com/videos/66891daae89fe84f82afdebe
+
 #EXTINF:-1 group-title="THANKS" group-logo="https://i.ibb.co/XJSskLN/sooka-logo.png" tvg-id="ZAYANZACK" ch-number="104" tvg-name="ZAYANZACK" tvg-logo="https://i.ibb.co/XJSskLN/sooka-logo.png", THANKS
 https://drive.usercontent.google.com/download?id=1l6K-rliAP7l7FBfB3OYJN8UixYGRQxVX&export=download
 
