@@ -11,6 +11,9 @@ https://drive.usercontent.google.com/download?id=1mEpUPbRDd19Lj9U3M2QnCtxZKr0EKz
 #EXTINF:-1 group-title="KING" group-logo="https://i.ibb.co/JrHvkmK/20240706-151736.png" tvg-id="KING" ch-number="104" tvg-name="KING" tvg-logo="https://i.ibb.co/JrHvkmK/20240706-151736.png", PRO
 https://drive.usercontent.google.com/download?id=1nc-XtBKQsJ1-Pzp9ZJhIeQxEG8a8PEff&export=download
 
+#EXTINF:-1 group-title="KING" group-logo="https://i.ibb.co/JrHvkmK/20240706-151736.png" tvg-id="KINGLIVE" ch-number="104" tvg-name="KING" tvg-logo="https://i.ibb.co/JrHvkmK/20240706-151736.png", PROLIVE
+https://www.youtube.com/live/WlgeUXlOMTc?si=sQrNM1Yq5A-4cfeV
+
 ############## EURO 2024 #################
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
