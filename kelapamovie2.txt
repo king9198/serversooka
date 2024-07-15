@@ -66,7 +66,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1UZzFORGRoT0RNdFpXUTVOeTAwTmpObExXRTJZVGd0WVRSbVpEWXpZakJtWldWaiIsIndtb3BpZCI6MzIsImV4cCI6MTcyMTE2NjE0NywiaWF0IjoxNzIwNTYyMTQ3fQ.u6K5fXNYH3wzydETSA1zKa4U8XnkId4lu6b4t13cWv0"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9ERm1ZV1JqWlRjdE5EazVPUzAwTnpkakxXSXhaR1V0WW1Vek5EQmpNbVprWXpneiIsIndtb3BpZCI6MzIsImV4cCI6MTcyMTYwNjUxNSwiaWF0IjoxNzIxMDAyNTE1fQ.-kRdL06L3J91dJ_DlUcntHLb9QMLzusABYdMecXmB2g"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
