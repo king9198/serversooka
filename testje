@@ -2,7 +2,7 @@
 
 #EXTM3U billed-msg="⚠️ SERVER ORIGINAL HANYA DI -  https://mylink.la/sooka , HATI ii , salah beli akan di ban ⚠️"
 
-#EXTM3U catchup-days="3"
+#EXTM3U catchup-days="3" billed-till="1724112000"
 
 #EXTINF:-1 group-title="1.ORIGINAL HANYA DI - https://mylink.la/sooka" group-logo="https://i.ibb.co/L0VhP85/sooka.png" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.ibb.co/L0VhP85/sooka.png", WELCOME
 https://drive.usercontent.google.com/download?id=1l_vx8jOJjPofGgfQ75Yr6THgOJ5Aj_fl&export=download
