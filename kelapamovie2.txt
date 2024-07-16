@@ -5,6 +5,9 @@
 #EXTINF:-1 group-title="1.ORIGINAL HANYA DI - https://mylink.la/sooka" group-logo="https://i.ibb.co/L0VhP85/sooka.png" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.ibb.co/L0VhP85/sooka.png", WELCOME
 https://drive.usercontent.google.com/download?id=1l_vx8jOJjPofGgfQ75Yr6THgOJ5Aj_fl&export=download
 
+#EXTINF:-1 group-title="2. ID AKAN BAN JIKA BELI DI WEBSITE LAIN !!" group-logo="https://i.ibb.co/L0VhP85/sooka.png" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.ibb.co/L0VhP85/sooka.png", WELCOME
+https://drive.usercontent.google.com/download?id=1qZ79uLJ8yJflalrC23jyGTfvpeCoN7iz&export=download
+
 #EXTINF:-1 group-title="THANKS" group-logo="https://i.ibb.co/L0VhP85/sooka.png" tvg-id="ZAYANZACK" ch-number="104" tvg-name="ZAYANZACK" tvg-logo="https://i.ibb.co/L0VhP85/sooka.png", THANKS
 https://drive.usercontent.google.com/download?id=1mEpUPbRDd19Lj9U3M2QnCtxZKr0EKzaC&export=download
 
