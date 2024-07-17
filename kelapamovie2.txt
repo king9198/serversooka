@@ -4,8 +4,10 @@
 
 #EXTM3U billed-till="1910436522"
 
-#EXTINF:-1 group-title="SHERIFd" group-logo="https://i.ibb.co/sVFDmms/SHERIFF.webp" tvg-id="KING" ch-number="104" tvg-name="ENJOY" tvg-logo="https://i.ibb.co/sVFDmms/SHERIFF.webp", SHERIFd
+#EXTINF:-1 group-title="Boo" group-logo="https://i.ibb.co/L0VhP85/sooka.png" tvg-id="KING" ch-number="104" tvg-name="ENJOY" tvg-logo="https://i.ibb.co/L0VhP85/sooka.png", Boo
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary "}
 
 #EXTINF:-1 group-title="1.ORIGINAL HANYA DI - https://mylink.la/sooka" group-logo="https://i.ibb.co/L0VhP85/sooka.png" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.ibb.co/L0VhP85/sooka.png", WELCOME
 https://drive.usercontent.google.com/download?id=1l_vx8jOJjPofGgfQ75Yr6THgOJ5Aj_fl&export=download
