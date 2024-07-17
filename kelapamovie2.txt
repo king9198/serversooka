@@ -4,7 +4,7 @@
 
 #EXTM3U billed-till="1910436522"
 
-#EXTINF:-1 group-title="test" group-logo="https://i.ibb.co/L0VhP85/sooka.png" tvg-id="test" tvg-name="test" tvg-logo="https://i.ibb.co/L0VhP85/sooka.png" Boo
+#EXTINF:-1 group-title="test" group-logo="https://i.ibb.co/L0VhP85/sooka.png" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.ibb.co/L0VhP85/sooka.png" Boo
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
 
 #EXTINF:-1 group-title="1.ORIGINAL HANYA DI - https://mylink.la/sooka" group-logo="https://i.ibb.co/L0VhP85/sooka.png" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.ibb.co/L0VhP85/sooka.png", WELCOME
