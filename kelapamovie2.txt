@@ -33,6 +33,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5149/default.mpd
 
 ###########################################################################SPORTS################################################################################
 
+#EXTINF: group-title="Sports" group-logo="https://i.ibb.co/L0VhP85/sooka.png"
+
 #EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" group-title="Sports",Astro Arena Bola
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XSm1NbU0wTjJFdFpXSTNaQzAwTWpnNExXRmxPRE10WkRCaVlXRTNNalkxTXpkaiIsIndtb3BpZCI6MzIsImV4cCI6MTcyMTQ3NDM2OSwiaWF0IjoxNzIwODcwMzY5fQ.FPYi3VZHe-OI0de6_HqUxvs-LZrxRfcpgIJ1rw5_yBs"}
