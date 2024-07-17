@@ -53,7 +53,9 @@ https://live.aqfadtv.xyz/sooka/arenabola/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/sooka/arenabola2/
 https://live.aqfadtv.xyz/sooka/arenabola2/index.mpd
 
-#EXTINF:-1 tvg-id="AstroSuperSport1" tvg-id="AstroSupersport" tvg-name="Astro SuperSport HD" ch-number="AstroSupersport" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Sports"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ SUPERSPORTS ~~~~~~~~~~~~~~~~~
+
+#EXTINF:-1 tvg-id="AstroSuperSport1" tvg-id="AstroSupersport" tvg-name="Astro SuperSport HD" ch-number="AstroSupersport" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Sports",Astro Supersport 1
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XSm1NbU0wTjJFdFpXSTNaQzAwTWpnNExXRmxPRE10WkRCaVlXRTNNalkxTXpkaiIsIndtb3BpZCI6MzIsImV4cCI6MTcyMTQ3NDM2OSwiaWF0IjoxNzIwODcwMzY5fQ.FPYi3VZHe-OI0de6_HqUxvs-LZrxRfcpgIJ1rw5_yBs"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
