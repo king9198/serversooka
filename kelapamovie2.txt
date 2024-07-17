@@ -2,7 +2,7 @@
 
 #EXTM3U billed-msg="⚠️ SERVER ORIGINAL HANYA DI -  https://mylink.la/sooka , HATI ii , salah beli akan di ban ⚠️" 
 
-#EXTM3U billed-till="7022791117"
+#EXTM3U billed-till="2036763862"
 
 
 #EXTINF:-1 group-title="Astro TEST 8PM to 6AM" group-logo="https://i.ibb.co/L0VhP85/sooka.png" tvg-id="AstroRia" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", Astro Ria HD
