@@ -75,7 +75,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5149/default.mpd
 
 #EXTINF: group-title="Sports" group-logo="https://i.ibb.co/L0VhP85/sooka.png"
 
-#EXTINF:-1 group-logo="https://i.ibb.co/L0VhP85/sooka.png" group-title="Sports" tvg-id="803.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" group-logo="" group-title ="",801 Astro Arena Bola
+#EXTINF:-1 group-logo="https://i.ibb.co/L0VhP85/sooka.png" group-title="Sports" tvg-id="803.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" group-logo="" group-title ="",Astro Arena Bola
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XSm1NbU0wTjJFdFpXSTNaQzAwTWpnNExXRmxPRE10WkRCaVlXRTNNalkxTXpkaiIsIndtb3BpZCI6MzIsImV4cCI6MTcyMTQ3NDM2OSwiaWF0IjoxNzIwODcwMzY5fQ.FPYi3VZHe-OI0de6_HqUxvs-LZrxRfcpgIJ1rw5_yBs"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
