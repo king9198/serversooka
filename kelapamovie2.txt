@@ -2,7 +2,7 @@
 
 #EXTM3U billed-msg="⚠️ SERVER ORIGINAL HANYA DI -  https://mylink.la/sooka , HATI ii , salah beli akan di ban ⚠️" 
 
-#EXTM3U billed-till="1722110426"
+#EXTM3U billed-till="2037170511"
 
 ############################################################# RULES #####################################################################
 
