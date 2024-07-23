@@ -1194,14 +1194,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd
 
 
 
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btm0l2qFSiic5iyslXpV1Q", "kid":"rTyyQs3jtofiOYzSHrm9EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="ColorsHD" tvg-name="Colors Hindi HD" group-title="INDIAN" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_COLORS.png",116 COLORS HINDI
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1754,19 +1750,16 @@ http://shareex@195.26.87.217/live?channelId=199&amp;amp;deviceMac=00:1A:79:33:E9
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="BOO" tvg-name="BOO HD" group-title="MOVIES" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_Boo.png",404 BOO
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary "}
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8/hCxUzJbLvQvLlqTLioEw", "kid":"oJiJbSsRxfOQapk8O6XGEA" } ], "type":"temporary" }
+
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" group-title="MOVIES" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_HBO.png",411 HBO
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8/hCxUzJbLvQvLlqTLioEw", "kid":"oJiJbSsRxfOQapk8O6XGEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1785,12 +1778,11 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5053/default.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5053/default.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eWE5ugWiq0Jfl4x/2YtDcg", "kid":"XWAOtwlE1oHCbB9I++YfEA" } ], "type":"temporary" }
+
 #EXTINF:-1 tvg-id="HBOHits" tvg-name="HBO Hits +1 HD" group-title="MOVIES" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_HBOHits.png",415 HBO HITS
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eWE5ugWiq0Jfl4x/2YtDcg", "kid":"XWAOtwlE1oHCbB9I++YfEA" } ], "type" :"Sementara" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
