@@ -97,6 +97,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 
 
 #EXTINF:-1 group-logo="https://i.ibb.co/L0VhP85/sooka.png" group-title="Sports" tvg-id="803.astro" tvg-channel="803" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" , Arena Bola
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EaGtPR1l3T1RVdE1EVmlZaTAwWVRnd0xXRXhPVGt0TkRObVpqRTFZakV5WkRFeSIsIndtb3BpZCI6MzIsImV4cCI6MTcyMjMzODI1MSwiaWF0IjoxNzIxNzM0MjUxfQ.ajkxK-M5DnIn22-YLyAsCJl_ZJOHvXTD-Ygo24tAeik"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
@@ -105,6 +107,9 @@ https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 #EXTINF:-1 tvg-id="804.astro" tvg-name="Astro Arena Bola 2" ch-number="804" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="Sports", Arena Bola 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EaGtPR1l3T1RVdE1EVmlZaTAwWVRnd0xXRXhPVGt0TkRObVpqRTFZakV5WkRFeSIsIndtb3BpZCI6MzIsImV4cCI6MTcyMjMzODI1MSwiaWF0IjoxNzIxNzM0MjUxfQ.ajkxK-M5DnIn22-YLyAsCJl_ZJOHvXTD-Ygo24tAeik"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
