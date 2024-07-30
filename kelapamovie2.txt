@@ -100,7 +100,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default_primary.m
 
 #EXTINF:-1 group-logo="https://i.ibb.co/L0VhP85/sooka.png" group-title="Sports" tvg-id="803.astro" tvg-channel="803" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" , Arena Bola
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XWTBPVFUzWVRFdFlXVTJPUzAwTURWakxUZzFOakV0TURJeU4yUm1OMkptWXpoaCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMjMzMjA5OCwiaWF0IjoxNzIxNzI4MDk4fQ.8EQsNkZS-U0XmOsMDPLSRftsZCrF2iGZgh4m0kqGQVA"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1qRmpOek0zTmpZdFpUSTVPQzAwTm1ReUxUaGhOREV0TURZM1lXWmtORE15TURjeSIsIndtb3BpZCI6MzIsImV4cCI6MTcyMjk0NDg1MywiaWF0IjoxNzIyMzQwODUzfQ.OB9EtaErI3_F_dhT0AFzbwQwjbEikl4idUovlU30eS0"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -109,7 +109,7 @@ https://live.aqfadtv.xyz/sooka/arenabola/index.mpd
 
 #EXTINF:-1 tvg-id="804.astro" tvg-name="Astro Arena Bola 2" ch-number="804" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="Sports", Arena Bola 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XWTBPVFUzWVRFdFlXVTJPUzAwTURWakxUZzFOakV0TURJeU4yUm1OMkptWXpoaCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMjMzMjA5OCwiaWF0IjoxNzIxNzI4MDk4fQ.8EQsNkZS-U0XmOsMDPLSRftsZCrF2iGZgh4m0kqGQVA"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1qRmpOek0zTmpZdFpUSTVPQzAwTm1ReUxUaGhOREV0TURZM1lXWmtORE15TURjeSIsIndtb3BpZCI6MzIsImV4cCI6MTcyMjk0NDg1MywiaWF0IjoxNzIyMzQwODUzfQ.OB9EtaErI3_F_dhT0AFzbwQwjbEikl4idUovlU30eS0"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
