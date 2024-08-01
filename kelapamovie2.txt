@@ -2068,87 +2068,75 @@ http://anevia114.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 
 
-######################################################################################## INDONESIA ########################################################################
+############################################################## INDONESIA ################################################################
 
 
+#EXTINF:-1 group-title="INDONESIA" group-logo="https://i.ibb.co/L0VhP85/sooka.png"
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroRania" tvg-name="ASTRO RANIA HD" group-title="INDONESIA" group-logo="https://i.ibb.co/L0VhP85/sooka.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_RANIA.png",112 ASTRO RANIA
-https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
-  
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id:"AstroRania" ch-number="112" tvg-name="Astro Rania HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112 Astro Rania HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroAura.my" ch-number="113" ch-number=" " tvg-name="ASTRO AURA HD" group-logo="https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/logo1/INDOLOGO.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="INDONESIA", 113 Astro Aura  
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "jenis":"sementara" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
+  
+#EXTINF:-1 group-title="INDONESIA" tvg-id="AstroAura" ch-number="113" tvg-name="Astro Aura" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png", 113 Astro Aura
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/609
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/h4LXP1mY/TANSTV.png" group-title="INDONESIA",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="TVRIWorld.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/h3RldTO.png" group-title="INDONESIA",TVRI World
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5Fg7V2v/Trans7.jpg" group-title="INDONESIA",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+
+
+#EXTINF:-1 tvg-id="TVRIWorld.id" tvg-logo="https://i.imgur.com/h3RldTO.png" group-title="INDONESIA",TVRI World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/121.0.6167.164 Mobile Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 
-
-#EXTINF:-1 tvg-id="TVRINasional.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="INDONESIA",TVRI Nasional (720p)
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="INDONESIA",TVRI Nasional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/121.0.6167.164 Mobile Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8|Referer=https://klik.tvri.go.id/
 
-#EXTINF:-1 tvg-id="tvOne.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/LCzQYdy.png" group-title="INDONESIA",tvOne (1080p)
+#EXTINF:-1 tvg-id="tvOne.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/LCzQYdy.png" group-title="INDONESIA",tvOne
 https://ythls.armelin.one/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8
 
-#EXTINF:-1 tvg-id="TVKU.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/BAklJGy.png" group-title="INDONESIA",TVKU (720p)
+#EXTINF:-1 tvg-id="TVKU.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/BAklJGy.png" group-title="INDONESIA",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
-
-#EXTINF:-1 tvg-id="Trans7.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="INDONESIA",Trans7 (720p)
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-
-#EXTINF:-1 tvg-id="TransTV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="INDONESIA",Trans TV (720p)
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="RajawaliTV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="INDONESIA",Rajawali TV
 https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
 
-#EXTINF:-1 tvg-id="NET.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="INDONESIA",NET. [Not 24/7]
-https://ythls.armelin.one/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8
-
-#EXTINF:-1 tvg-id="NusantaraTV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="INDONESIA",Nusantara TV (720p)
-https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
-
-#EXTINF:-1 tvg-id="MagnaChannel.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="INDONESIA",Magna Channel (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="MagnaChannel.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="INDONESIA",Magna Channel [Not 24/7]
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="INDONESIAnaTV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/192wiS1.png" group-title="INDONESIA",INDONESIAna.TV (720p)
-https://63b2dc7196c38.streamlock.net:1937/musikfolklor/ngrp:musikfolklor_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="InspiraTV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/BF5orkg.png" group-title="INDONESIA",Inspira TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="InspiraTV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/BF5orkg.png" group-title="INDONESIA",Inspira TV [Not 24/7]
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GarudaTV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="INDONESIA",Garuda TV (720p)
+#EXTINF:-1 tvg-id="GarudaTV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="INDONESIA",Garuda TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
-#EXTINF:-1 tvg-id="FicomChannel.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.ibb.co/nqX0CBx/f-1.png" group-title="INDONESIA",Ficom Channel (720p)
+#EXTINF:-1 tvg-id="FicomChannel.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.ibb.co/nqX0CBx/f-1.png" group-title="INDONESIA",Ficom Channel
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNBCINDONESIA.id" tvg-logo="https://i.imgur.com/bUfeG7Y.png" group-title="INDONESIA",CNBC INDONESIA (720p)
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="CNNINDONESIA.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/l0JyOrm.png" group-title="INDONESIA",CNN INDONESIA (720p) [Geo-blocked]
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNINDONESIA.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/l0JyOrm.png" group-title="INDONESIA",CNN INDONESIA [Geo-blocked]
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="DAAITV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="INDONESIA",DAAI TV (720p)
+#EXTINF:-1 tvg-id="DAAITV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="INDONESIA",DAAI TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
 
-#EXTINF:-1 tvg-id="BandungTV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.postimg.cc/JzqSzcj9/200px-Logo-bdg-tv-2016.png" group-title="INDONESIA",Bandung TV (360p)
+#EXTINF:-1 tvg-id="BandungTV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.postimg.cc/JzqSzcj9/200px-Logo-bdg-tv-2016.png" group-title="INDONESIA",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
-#EXTINF:-1 tvg-id="BantenTV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/tbtF40p.png" group-title="INDONESIA",Banten TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BantenTV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/tbtF40p.png" group-title="INDONESIA",Banten TV [Not 24/7]
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="INDONESIA" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.226.232.196:8000/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" group-title="INDONESIA",Kompas TV HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -2160,44 +2148,15 @@ https://ythls.armelin.one/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="INDONESIA" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://static.mncnow.id/images/channel/b32939e5/00e6_r32.jpg",NET TV HD (Transvision Feed)
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="INDONESIA" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://static.mncnow.id/images/channel/b32939e5/00e6_r32.jpg",NET TV HD
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
 
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDONESIA",Indosiar
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.226.232.196:8000/play/a00l/index.m3u8
-
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="INDONESIA" ,SCTV 
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.226.232.196:8000/play/a013/index.m3u8
-
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="INDONESIA",Moji (A)
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.226.232.196:8000/play/a022/index.m3u8
+https://short.gy/nghopx
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" ch-number="1" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="INDONESIA",RCTI HD
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.226.232.196:8000/play/a00a/index.m3u8
+https://tinyurl.com/559bja73
 
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" ch-number="2" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="INDONESIA",MNC TV
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.226.232.196:8000/play/a008/index.m3u8
-
-#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" ch-number="3" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="INDONESIA",GTV
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.226.232.196:8000/play/a00d/index.m3u8
-
-#EXTINF:0 tvg-id="iNews.Id"  group-title="INDONESIA" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://cdn.ksa.my.id/inews.png",iNewsTV
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.226.232.196:8000/play/a01i/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/7b3b11534b9ac313e5be.png",VTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://103.226.232.196:8000/play/a00p/index.m3u8
-
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="MOJI" tvg-name="Moji" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="INDONESIA",Moji (B)
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.226.232.196:8000/play/a022/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV 
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd 
@@ -2210,12 +2169,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png" group-title="INDONESIA" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png", Citra Drama
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDONESIA" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.postimg.cc/prW9bHQJ/muat-turun-22.png", KTV ID
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/ktv.m3u8
 
 
-  
 #######################################################################DOCUMENTARY######################################################################################
 
 
