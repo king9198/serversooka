@@ -158,9 +158,9 @@ https://live.aqfadtv.xyz/sooka/arenabola2/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
 
-##################################################### OLYMPIC PARIS 2024 ################################################################
+##################################################### OLYMPIC PARIS 2024 ##############################################################
 
-#EXTINF: group-title="OLYMPIC PARIS 2024" group-logo="https://i.ibb.co/SPGB2pz/olympic-paris-2024.jpg"
+#EXTINF: group-title="OLYMPIC PARIS 2024" group-logo="https://i.ibb.co/4K8TQ8Q/OLYMPIC-PARIS-2024.jpg"
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
