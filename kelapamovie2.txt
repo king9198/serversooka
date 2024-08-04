@@ -1709,16 +1709,12 @@ http://58.35.70.169:10055/live/cctv17/hls.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
 
 
+
+#EXTINF:-1 tvg-id="395" ch-number="tvN" tvg-name="tvN HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="KOREAN",395 tvN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GegOzF0zchXGQATLScnLAQ", "kid":"+vTWK7iY3lA0RsKPsaqSEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="395" ch-number="tvN" tvg-name="tvN HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="KOREAN",395 tvN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
-
-#EXTINF:-1 tvg-id="ArirangTV" group-title="KOREAN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png",Arirang TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9bc202de2b177ff5bb64dacb0ab3fd8d:d71b81338f16bf009608665b08a49197
-https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
