@@ -872,7 +872,10 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227553/3221227553.mpd?rrsip=center
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
 #EXTINF:-1 tvg-id="211" ch-number="211" tvg-name="tvN HD" group-title="UNIFI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",211 tvN  
-https://web.hypp.tv:443/PLTV/88888888/224/3221227556/3221227556.mpd?rrsip=centerrrs.hypp.tv&amp;amp;zoneoffset=0&amp;amp;servicetype=1&amp;amp;icpid=&amp;amp;accounttype=1&amp;amp;limitflux=-1&amp;amp;limitdur=-1&amp;amp;accountinfo=H8USOZqD4I2bxHIyzKB%2BnKTDq%2BIToAJxs6VtIhBb%2FNFw13x1HN1VtGsGy8wPB00MKrS9eklsKbM5%2BGUUXK9YHvBCtW%2BInIA2H2SjhstZ%2FKIcMORICpCueCrwiQhfkl6Bl1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230705142849%3AUTC%2C1004320542%2C14.1.246.132%2C20230705142849%2Curn:Huawei:liveTV:iptv10970%2C1004320542%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C21dd4af0-2953-367a-cbe6-1cb936543fca%2C%2C%2C2%2C1%2CEND&amp;amp;GuardEncType=2&amp;amp;tenantId=6003&amp;amp;from=5&amp;amp;ocs=2_1.9.62.163_80&amp;amp;hms_devid=1797&amp;amp;it=H4sIAAAAAAAAA0XMQQvCIBiA4X_jUdS56Q6eikEXCVZd45t-E8Em6Rr072MRdH-fdy3g8HQ0ivcomWxnrxoJWkKvveq8aEFxoaeOVHzabBriIKW4BJv9zm7j4c4ZZVQITrkml303JAhGfEv7ekxY_mzEskWHxteZblAphFAwwBrzQs8J3teSfskH2OeS1JkAAAA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
@@ -1695,6 +1698,7 @@ http://58.35.70.169:10055/live/cctv17/hls.m3u8
 
 ###########################################################################KOREAN##################################################################################
 
+#EXTINF:-1 group-title="KOREAN" group-logo="https://i.ibb.co/L0VhP85/sooka.png"
 
 #EXTINF:-1 tvg-id="tvNMovies" tvg-name="tvN Movies HD" ch-number="416" group-title="KOREAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",416 tvN Movies HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1702,7 +1706,7 @@ http://58.35.70.169:10055/live/cctv17/hls.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"8e269c8aa32ad77eb83068312343d610": "d12ccebafbba2a535d88a3087f884252"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2406/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
