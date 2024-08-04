@@ -65,9 +65,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
 ####################################################### BOLA MALAYSIA ( MFL ) ##########################################################
 
-#EXTINF:-1 group-title="BOLA MALAYSIA ( MFL )" group-logo="https://i.ibb.co/jH8RKK7/mfl.png"
+#EXTINF:-1 group-title="BOLA MALAYSIA ( MFL )" group-logo="https://i.ibb.co/THXz6yV/mfl.png"
 
-#EXTINF:-1 group-title="BOLA MALAYSIA ( MFL )" group-logo="https://i.ibb.co/jH8RKK7/mfl.png" tvg-id="803.astro" tvg-channel="803" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" , Arena Bola
+#EXTINF:-1 group-title="BOLA MALAYSIA ( MFL )" tvg-id="803.astro" tvg-channel="803" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" , Arena Bola
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllURmhNbU5pWXpRdE5EUTJPUzAwWXpnMUxXRmxOalV0TVdaak5UaGhZMkprTjJRNCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMzAwOTIyMCwiaWF0IjoxNzIyNDA1MjIwfQ.2wxfxaGTB9M_YOUCiIr49mr4FuT_XO6DwoIZSjQdsSU"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
