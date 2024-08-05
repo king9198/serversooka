@@ -160,7 +160,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
 
 ##################################################### OLYMPIC PARIS 2024 ##############################################################
 
-#EXTINF: group-title="OLYMPIC PARIS 2024" group-logo="https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/kkgoinvmu1b4v6oyvnac"
+#EXTINF: group-title="OLYMPIC PARIS 2024" group-logo="https://i.ibb.co/RHDyLrw/olyparis2024.png"
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
