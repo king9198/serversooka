@@ -2118,12 +2118,10 @@ https://linearjitp-playback.astro.com.my:443/dash-wv/linear/5095/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="CARTOON NTWK HD" group-title="Kids TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png",615 CARTOON NETWORK
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELODEON HD" group-title="Kids TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png",616 NICKELEDEON
@@ -2144,16 +2142,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 
 #EXTINF:-1 tvg-id="MoonbugKids" tvg-name="Moonbug Kids" group-title="Kids TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/465_144.png",618 Moonbug Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5067
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd
-#https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5067
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default.mpd
 
 
 #EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" group-title="Kids TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/481_144.png",620 CBeebies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3mxf6q5faWO0s5LdyLaneA","kid":"UMaZxETl+A2sr8TJlmfYEA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3mxf6q5faWO0s5LdyLaneA", "kid":"UMaZxETl+A2sr8TJlmfYEA" } ], "type":"temporary "}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5093/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
 
 
 #EXTINF:-1 tvg-id="CHN" tvg-name="MY: ZooMoo Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/220px-ZooMoo_logo.svg.png" group-title="Kids TV",ZooMoo Kids 
