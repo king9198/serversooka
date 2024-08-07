@@ -1,5 +1,5 @@
 
-#EXTM3U url-tvg="https://is.gd/VqyAtA,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"                                      
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml ,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml ,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"                                      
 
 #EXTM3U billed-msg="⚠️ SERVER ORIGINAL HANYA DI -  https://mylink.la/sooka , HATI ii , salah beli akan di ban ⚠️" 
 
@@ -1758,7 +1758,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=web.hy
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live27.mpd
 
 
-#EXTINF:-1 tvg-id="121" ch-number="121" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" group-title="MOVIES" ,SIAR
+#EXTINF:-1 tvg-name="SIAR" tvg-id="121" ch-number="121" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" group-title="MOVIES" ,SIAR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/unifitv/siar/
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
