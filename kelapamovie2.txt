@@ -604,7 +604,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 
 ##########################################################  MALAYSIA  ##################################################################
 
-#EXTINF:-1 group-title="Malaysia Channel" group-logo="https://i.ibb.co/L0VhP85/sooka.png" 
+#EXTINF:-1 group-title="Malaysia Channel" group-logo="https://i.postimg.cc/XvW1DGVC/TV1.png" 
 
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="Malaysia Channel" tvg-logo="https://i.postimg.cc/MXJ8r3c0/TV1.png", 101 TV1
@@ -657,7 +657,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
 
 
-#EXTINF:-1 tvg-id="DidikTVKPM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malaysia Channel",147 TV7
+#EXTINF:-1 tvg-id="DidikTVKPM" tvg-name="NTV7" group-title="Malaysia Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" ,147 TV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056641&autoplay=1&mute=0
 https://tonton-live-ssai.akamaized.net/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/cmaf.isml/.m3u8
@@ -716,7 +716,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 
 #######################################################  UNIFI TV  #####################################################################
 
-#EXTINF:-1 group-title="UNIFI TV" group-logo="https://i.postimg.cc/mk5vFLWg/unifi-tv.png"
+#EXTINF:-1 group-title="UNIFI TV" group-logo="https://i.postimg.cc/XvW1DGVC/TV1.png"
 
 
 #EXTINF:-1 tvg-id="UTV1" tvg-name="TV1" group-title="UNIFI TV" tvg-logo="hhttps://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",UNIFI 101 TV1
@@ -929,7 +929,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227925/3221227925.mpd?rrsip=web.hy
 
 ######################################################  UNIFI KIDS  ####################################################################
 
-#EXTINF:-1 group-title="UNIFI KIDS" group-logo="https://i.postimg.cc/8kMMKy0j/Unifi-KIDS.png"
+#EXTINF:-1 group-title="UNIFI KIDS" group-logo="https://i.postimg.cc/7Zj9pCwV/Unifi-KIDS.png"
 
 #EXTINF:-1 tvg-id="UMOONBUG" tvg-name="Moonbug" group-title="UNIFI KIDS" tvg-logo="https://aqfadtv.xyz/logos/Moonbug.png",UNIFI 511 Moonbug HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2171,7 +2171,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 
 ###########################################################  KIDS  #####################################################################
 
-#EXTINF:-1 group-name="Kids TV" group-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png"
+#EXTINF:-1 group-name="Kids TV" group-logo="https://i.postimg.cc/wMM8wWXM/kids.png"
 
 #EXTINF:-1 tvg-id="AstroCeria.my" ch-number="611" tvg-name="CERIA HD" group-title="Kids TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",611 Astro Ceria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
