@@ -607,7 +607,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 #EXTINF:-1 group-title="Malaysia Channel" group-logo="https://i.ibb.co/L0VhP85/sooka.png" 
 
 
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="Malaysia Channel" tvg-logo="hhttps://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", 101 TV1
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="Malaysia Channel" tvg-logo="https://i.postimg.cc/MXJ8r3c0/TV1.png", 101 TV1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -716,7 +716,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 
 #######################################################  UNIFI TV  #####################################################################
 
-#EXTINF:-1 group-title="UNIFI TV" group-logo="https://i.ibb.co/5cNXhyC/unifi-tv.jpg"
+#EXTINF:-1 group-title="UNIFI TV" group-logo="https://i.postimg.cc/mk5vFLWg/unifi-tv.png"
 
 
 #EXTINF:-1 tvg-id="UTV1" tvg-name="TV1" group-title="UNIFI TV" tvg-logo="hhttps://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",UNIFI 101 TV1
@@ -929,7 +929,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227925/3221227925.mpd?rrsip=web.hy
 
 ######################################################  UNIFI KIDS  ####################################################################
 
-#EXTINF:-1 group-title="UNIFI KIDS" group-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png"
+#EXTINF:-1 group-title="UNIFI KIDS" group-logo="https://i.postimg.cc/8kMMKy0j/Unifi-KIDS.png"
 
 #EXTINF:-1 tvg-id="UMOONBUG" tvg-name="Moonbug" group-title="UNIFI KIDS" tvg-logo="https://aqfadtv.xyz/logos/Moonbug.png",UNIFI 511 Moonbug HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
