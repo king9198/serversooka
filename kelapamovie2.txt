@@ -900,14 +900,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
 
 
 
-#EXTINF:-1 tvg-id="UHITS" tvg-name="HITS" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Hits.png",UNIFI 454 Hits  
+#EXTINF:-1 tvg-id="UHITS" tvg-name="HITS" group-title="UNIFI TV" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Hits.png",UNIFI 454 Hits  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NssgY79TONGNMWVzcbFYFw", "kid":"H+kmhadYRNxUydrBJIAlEA" } ], "type":"sementara "}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
 
 
-#EXTINF:-1 tvg-id="UONE" tvg-name="ONE" group-title="KOREAN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ONE_HD_v2.png",UNIFI 461 One HD 
+#EXTINF:-1 tvg-id="UONE" tvg-name="ONE" group-title="UNIFI TV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ONE_HD_v2.png",UNIFI 461 One HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Red+aounZ7Y8rP2wHvKsKQ", "kid":"2P45jHkGUXP6l4jyJgVlEA" } ], "temporarytype":" "}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
@@ -921,6 +921,65 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
 
 
+#EXTINF:-1 tvg-id="UANIMAX" tvg-name="Animax HD" group-title="UNIFI TV" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220811/20220811020901814w9o.png",UNIFI 472 Animax HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
+https://web.hypp.tv:443/PLTV/88888888/224/3221227925/3221227925.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO13ekK2bj%2FEqhmZsgCb487VK201C73xHPJjGvTHv3JiPHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124082916%3AUTC%2C1001767137%2C115.164.56.153%2C20221124082916%2Curn:Huawei:liveTV:XTV57622558%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy2rDMBRE_0ZLoUcqOQutUgKB4gbidlvG1rViIlup5ATy941bdzszZzhzRkeHVwctoavqRWmvN0a0sBslWrLopRWwhhX6rpNTrEOMwxTq5Bfs87T7koILrpTkUrFmudtHhHVZ38aWstP_2InyfejI-dLzOwpHCJkC5iFN_Bjx-MhxnTBqVjVpzFZVRkpj7ZbNS9qgXJ4NO6Ps0nhFJv-Wwi_gesRC7IrugkA1RnLTLcY_7j37p80PI8646_QAAAA&tenantId=6001
+
+
+######################################################  UNIFI KIDS  ####################################################################
+
+#EXTINF:-1 group-title="UNIFI KIDS" group-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png"
+
+#EXTINF:-1 tvg-id="UMOONBUG" tvg-name="Moonbug" group-title="UNIFI KIDS" tvg-logo="https://aqfadtv.xyz/logos/Moonbug.png",UNIFI 511 Moonbug HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5067
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default.mpd
+
+
+#EXTINF:-1 tvg-id="UDREAMWORKS" tvg-name="Dreamworks" group-title="UNIFI KIDS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/485_144.png",UNIFI 550 Dreamworks HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3MvfBDrEPRi+Cz60Olgodg", "kid":"tb/jVU3yq803r+Ewp+HTEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my:443/dash-wv/linear/5095/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="UNICKJR" tvg-name="Nick Jr." group-title="UNIFI KIDS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png",UNIFI 552 Nick Jr. HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tKu+6Vtps+gKDRQScshw2w", "kid":"+mUiDJ925CQXOJnfUzptEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="UCBEEBIES" tvg-name="CBeebies" group-title="UNIFI KIDS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/481_144.png",UNIFI 553 CBeebies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3mxf6q5faWO0s5LdyLaneA", "kid":"UMaZxETl+A2sr8TJlmfYEA" } ], "type":"temporary "}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
+
+
+#EXTINF:-1 tvg-id="UNICKELODEON" tvg-name="NICKELODEON HD" group-title="UNIFI KIDS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png",UNIFI 554 Nickelodeon HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vaX3u8HkQJb3eaBhn+mIHw", "kid":"2FIOlqEoOrblvlOEdL+oEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="UCARTOONITO" tvg-name="Cartoonito" group-title="UNIFI KIDS" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202307/20230727/20230727155824262s56.png,UNIFI 555 Cartoonito
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
+https://web.hypp.tv:443/PLTV/88888888/224/3221227534/3221227534.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHORk%2F7o9ZSvEMcHdX5yljqg9BPtBbwcQhknqc39VUJpD%2FHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124094239%3AUTC%2C1001767137%2C115.164.56.153%2C20221124094239%2Curn:Huawei:liveTV:SP0010059884%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOUQuCMBzEv80exzaHtoc9FUEQFmS9xt_5d4nT1aZC3z4tezq4u99xQwCDh50uJcs4T6DeGClnUSZLZFIyxoSCjEsS8ZV7LYgB55re5r5asNtle-eMMioEp1yQYpnbO7BrMx-7EoNO_tgFw9QY1FWs6QSRgrUBLQyN7-nZwfsa3FohWKzXeJoqoVjGUqUkGRa3gNjOCXlA3PruCQGro7dfQNfgIpInmBYs5tCh7kfnftwpVPObD9dw2Of0AAAA&tenantId=6001
+
+
+#EXTINF:-1 tvg-id="UCNETWORK" tvg-name="CARTOON NTWK HD" group-title="UNIFI KIDS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png",UNIFI 556 Cartoon Network HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 
 
 ################################################################## ARABIC CHANNEL ######################################################
@@ -2111,6 +2170,8 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 
 
 ###########################################################  KIDS  #####################################################################
+
+#EXTINF:-1 group-name="Kids TV" group-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png"
 
 #EXTINF:-1 tvg-id="AstroCeria.my" ch-number="611" tvg-name="CERIA HD" group-title="Kids TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",611 Astro Ceria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
