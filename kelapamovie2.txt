@@ -47,10 +47,10 @@ https://9nmy.short.gy/aaaaaprima.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 
-#EXTINF:-1 tvg-id="107.astro" tvg-name="WARNA HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",107 Astro Warna ( 9PM to 6AM )
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="WARNA HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",107 Astro Warna ( 9PM - 6AM )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
-hhttps://9nmy.short.gy/Kingbodohsialll.mpd
+https://9nmy.short.gy/Kingbodohsialll.mpd
 
 
 #EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",108 Astro Citra ( 9PM to 6AM )
