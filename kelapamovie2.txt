@@ -1315,11 +1315,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
 
 
-#EXTINF:-1 tvg-id="222" tvg-name="Colors Tamil HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png" group-title="INDIAN", 222 Colors Tamil
+#EXTINF:-1 tvg-id="ColorsTamil" tvg-name="COLORS TAMIL" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png",222 Colors Tamil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"URkFvxkUdLQStOwRdRWnnA", "kid":"5GNU+znCjllWvJRqwqBQEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=e46354fb39c28e5956bc946ac2a05010:511905bf191474b412b4ec117515a79c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2101/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
 
 
 #EXTINF:-1 tvg-id="ColorsKannada.in" tvg-name="Colors Kannada" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/783cbfb3051d12d7992f82ae4f7c91fa.png" group-title="INDIAN",Colors Kannada
