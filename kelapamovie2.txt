@@ -344,7 +344,7 @@ https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
 
-#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" group-title="Sports" tvg-logo="https://i.ibb.co/s3npVX2/Spotv.jpg",816 SPOTV
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" group-title="Sports" tvg-logo="https://i.ibb.co/ZNtCpJ9/Spotv.png",816 SPOTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
