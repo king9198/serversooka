@@ -1864,17 +1864,17 @@ http://anevia114.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:-1 group-title="INDONESIA" group-logo="https://i.ibb.co/L0VhP85/sooka.png"
 
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id:"AstroRania" ch-number="112" tvg-name="Astro Rania HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112 Astro Rania HD
+#EXTINF:-1 group-title="INDONESIA" tvg-id:"RANIA HD" ch-number="112" tvg-name="Astro Rania HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112 Astro Rania HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "jenis":"sementara" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
   
-#EXTINF:-1 group-title="INDONESIA" tvg-id="AstroAura" ch-number="113" tvg-name="Astro Aura" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png", 113 Astro Aura
+#EXTINF:-1 group-title="INDONESIA" tvg-name="AURA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png", 113 Astro Aura
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/609
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/h4LXP1mY/TANSTV.png" group-title="INDONESIA",Trans TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/h4LXP1mY/TANSTV.png" tvg-name="Trans TV" group-title="INDONESIA",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5Fg7V2v/Trans7.jpg" group-title="INDONESIA",Trans 7
