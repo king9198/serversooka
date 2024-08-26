@@ -2080,7 +2080,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
 
 
-#EXTINF:-1 tvg-id="CHN" tvg-name="MY: ZooMoo Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/220px-ZooMoo_logo.svg.png" group-title="Kids TV",ZooMoo Kids 
+#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/220px-ZooMoo_logo.svg.png" group-title="Kids TV",ZooMoo Kids HD
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 
