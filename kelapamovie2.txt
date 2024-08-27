@@ -180,7 +180,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 #EXTINF:-1 group-title="BOLA INGGERIS ( EPL ) 🏴󠁧󠁢󠁥󠁮󠁧󠁿 " group-logo="https://s.yimg.com/ny/api/res/1.2/eMXjou4I0T4dDaekhdKYcg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk7Y2Y9d2VicA--/https://media.zenfs.com/en/creative_bloq_161/87fefa9e5a05f4e3b07c88f2fe805fcc"
 
 
-#EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" group-title="BOLA INGGERIS ( EPL ) 🏴󠁧󠁢󠁥󠁮󠁧󠁿" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png",810 SPOTV 2
+#EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" group-title="BOLA INGGERIS ( EPL ) 🏴󠁧󠁢󠁥󠁮󠁧󠁿" tvg-logo="hhttps://i.ibb.co/JFxBMK2/spotv2.png",810 SPOTV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
@@ -224,7 +224,7 @@ https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default.mpd
 
 
-#EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png",810 SPOTV 2
+#EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" group-title="Sports" tvg-logo="https://i.ibb.co/JFxBMK2/spotv2.png",810 SPOTV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
@@ -263,7 +263,7 @@ https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
 
-#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" group-title="Sports" tvg-logo="https://i.ibb.co/ZNtCpJ9/Spotv.png",816 SPOTV
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" group-title="Sports" tvg-logo="https://i.ibb.co/mvgmZ1b/spotv.png",816 SPOTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
