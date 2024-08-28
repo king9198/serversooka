@@ -14,7 +14,7 @@ https://drive.usercontent.google.com/download?id=1l_vx8jOJjPofGgfQ75Yr6THgOJ5Aj_
 #EXTINF:-1 group-title="2. ID AKAN BAN JIKA BELI DI WEBSITE LAIN !!" group-logo="https://i.ibb.co/L0VhP85/sooka.png" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.ibb.co/L0VhP85/sooka.png", WELCOME
 https://drive.usercontent.google.com/download?id=1qZ79uLJ8yJflalrC23jyGTfvpeCoN7iz&amp;amp;export=download
 
-#EXTINF:-1 group-title="THANKS" group-logo="https://i.ibb.co/L0VhP85/sooka.png" tvg-id="KING" ch-number="104" tvg-name="KING" tvg-logo="https://i.ibb.co/L0VhP85/sooka.png", THANKS
+#EXTINF:-1 group-title="THANKS SUPPORT❤" group-logo="https://i.ibb.co/L0VhP85/sooka.png" tvg-id="KING" ch-number="104" tvg-name="KING" tvg-logo="https://i.ibb.co/L0VhP85/sooka.png", THANKS
 https://drive.usercontent.google.com/download?id=1mEpUPbRDd19Lj9U3M2QnCtxZKr0EKzaC&amp;amp;export=download
 
 #EXTINF:-1 group-title="SHERIFF" group-logo="https://i.ibb.co/sVFDmms/SHERIFF.webp" tvg-id="KING" ch-number="104" tvg-name="ENJOY" tvg-logo="https://i.ibb.co/sVFDmms/SHERIFF.webp", SHERIFF
@@ -1703,122 +1703,25 @@ https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 
 
 
-######################################################ANOTHER SPORTS################################################################
-
-#EXTINF:-1 tvg-id="TVRI.id" group-title="ANOTHER SPORTS" group-logo="https://i.ibb.co/L0VhP85/sooka.png" tvg-logo="https://i.postimg.cc/G2M5LGds/download-21.png",TVRI Sports
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
-
-#EXTINF:-1 group-title="ANOTHER SPORTS" tvg-id="634dtv.co" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.imgur.com/3pxWFeQ.png", Win Sports Plus
-http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/430810.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn-2.jpg" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="ANOTHER SPORTS", TUDN US
-http://23.237.108.234/hls/USA_TUDN.m3u8|user-agent=Roku(10.10.10)
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/WWE_%282014%29_logo.svg/580px-WWE_%282014%29_logo.svg.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="ANOTHER SPORTS", WWE
-http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/11645.ts
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131" tvg-logo="https://i.postimg.cc/4Ns0MZKb/Star-Sports-1-HD.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="ANOTHER SPORTS", Star Sports 1 IN
-http://195.26.87.217/live?channelId=293&amp;amp;deviceMac=00:1A:79:33:E9:41
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131" tvg-logo="https://i.postimg.cc/BbCCqddK/download-2023-07-13-T125532-811.jpg" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png"  group-title="ANOTHER SPORTS", Star Sports 2 IN 
-http://xtv.ooo:8080/1234567890/0987654321/109988
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131" tvg-logo="https://i.postimg.cc/xTgHckNg/download-32.jpg" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="ANOTHER SPORTS", Star Sports Selects 1
-http://195.26.87.217/live?channelId=299&amp;amp;deviceMac=00:1A:79:33:E9:41
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131" tvg-logo="https://i.postimg.cc/zBSv6Mnp/download-33.jpg" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="ANOTHER SPORTS", Star Sports Selects 2
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/16619
-
-
-
-#EXTINF:-1 tvg-idÃ&amp;amp;#175;Â&amp;amp;#191;Â&amp;amp;#189;="5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131" tvg-logo="https://i.postimg.cc/kX1fgrTb/download-5.jpg" group-title="ANOTHER SPORTS", T Sports 
-https://live.tsports.com/live/tsports_live_720/index.m3u8
-
-
-#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="ANOTHER SPORTS",Bahrain Sports 1 (720p) [Not 24/7]
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="ANOTHER SPORTS",Bahrain Sports 2 (720p) [Not 24/7]
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KSASports1.bh" tvg-logo="https://i.imgur.com/ONKNOAp.png" group-title="ANOTHER SPORTS",KSA Sports 1 (720p) [Not 24/7]
-https://edge.taghtia.com/sa/9.m3u8
-
-#EXTINF:-1 tvg-id="KSASports2.bh" tvg-logo="https://i.imgur.com/v8ULLqg.png" group-title="ANOTHER SPORTS",KSA Sports 2 (720p) [Not 24/7]
-https://edge.taghtia.com/sa/10.m3u8
-
-#EXTINF:-1 tvg-id="KSASports3.sa" tvg-logo="https://i.imgur.com/BXfCvez.png" group-title="ANOTHER SPORTS",KSA Sports 3 (1080p) [Not 24/7] https://edge.taghtia.com/sa/16.m3u8 
-
-#EXTINF:-1 tvg-id="KSASports4.sa" tvg-logo="https://i.imgur.com/TNZEKP6.png" group-title="ANOTHER SPORTS",KSA Sports 4 (1080p) [Not 24/7] https://edge.taghtia.com/sa/17.m3u8
-
-#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="ANOTHER SPORTS",Dubai Sports 1 (1080p)
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="ANOTHER SPORTS",Dubai Sports 2 (720p)
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-
-#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="ANOTHER SPORTS",Dubai Sports 3 (1080p) [Not 24/7]
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-
-
-
-
-#EXTINF:-1 channel-id="AfroSports" tvg-name="AfroSports" tvg-logo="https://i.postimg.cc/Fs1Mr1NX/download-26.png" group-title="ANOTHER SPORTS", AfroSports
-https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
-
-#EXTINF:-1 tvg-id="SuperTennis" tvg-logo="https://i.postimg.cc/HnqyRVT1/download-28.png" group-title="ANOTHER SPORTS", Super Tennis
-https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/variant_720_manifest.m3u8
-
-#EXTINF:-1 tvg-id="TennisInternational" tvg-logo="https://i.postimg.cc/2SsZ2HC9/download-24.jpg" group-title="ANOTHER SPORTS", Tennis International 
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="QazSports.KHZ" tvg-logo="https://i.postimg.cc/W424r0X5/download-59.png" group-title="ANOTHER SPORTS", Qaz Sports 
-
-#EXTINF:-1 tvg-id="BahrainSports1.bh" group-title="ANOTHER SPORTS" tvg-logo="",Bahrain Sports 1
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BahrainSports2.bh" group-title="ANOTHER SPORTS" tvg-logo="",Bahrain Sports 2
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Z6TPBv4/images-9.png" group-title="ANOTHER SPORTS", Sports 1
-http://84.22.33.218/ArTsPoRt.1.Uc/index.m3u8
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 group-title="ANOTHER SPORTS" tvg-logo="https://www.sportstars.id/assets/mobile/images/logo.png",Sportstars
-http://anevia114.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 group-title="ANOTHER SPORTS" tvg-logo="https://www.sportstars.id/assets/mobile/images/logo.png",Sportstars 2
-http://anevia114.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 group-title="ANOTHER SPORTS" tvg-logo="https://www.sportstars.id/assets/mobile/images/logo.png",Sportstars 3 
-http://anevia114.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 
 
 
 
 
-############################################################## INDONESIA ################################################################
+
+############################################################  INDONESIA  ###############################################################
 
 
 #EXTINF:-1 group-title="INDONESIA" group-logo="https://i.ibb.co/L0VhP85/sooka.png"
 
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id:"RANIA HD" ch-number="112" tvg-name="Astro Rania HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112 Astro Rania HD
+#EXTINF:-1 group-title="INDONESIA" tvg-name:"RANIA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112 Astro Rania HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "jenis":"sementara" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
   
-#EXTINF:-1 group-title="INDONESIA" tvg-name="AURA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png", 113 Astro Aura
+#EXTINF:-1 group-title="INDONESIA" tvg-name="AURA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png", 113 Astro Aura
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/609
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
@@ -2400,16 +2303,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC.aa
 https://d37ey7ubht2hh2.cloudfront.net/out/v1/2d4a3d04aa404f3f8860da4a3ae25817/index_2.m3u8
 
 
-######################################################################VOD################################################
-
-
-
-
-
-
-#####################################################################################
-
-#####################################################################################
+###############################################################  VOD  ##################################################################
 
 
 [{"name": "Updated: 24/10/2023", "category": "Updated: 24/10/2023", "info": {"poster": "https://logovtor.com/wp-content/uploads/2020/05/hbo-go-logo-vector.png", "bg": "https://www.hbogoasia.my/static/images/imgplaceholderLandscape414@3x.png", "plot": "Untuk info terkini, sila ke FB Pijanify (https://fb.me/pijanify)", "backdrop": "https://www.hbogoasia.my/static/images/imgplaceholderLandscape414@3x.png", "director": ["Pijanify"], "cast": ["Pijanify"], "year": "2023"}, "video": ""},
