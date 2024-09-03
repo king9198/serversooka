@@ -8,7 +8,7 @@
 ############################################################  RULES  ###################################################################
 
 #EXTINF:-1 group-title="#1 ⚠️ERROR 404? TEKAN SINI !" group-logo="https://i.ibb.co/p0tcNx1/amaran.png" tvg-id="amaran" tvg-name="REFRESH" tvg-logo="https://i.ibb.co/p0tcNx1/amaran.png", TEKAN SINI CARA REFRESH
-https://go.screenpal.com/player/cZQeiHVRZwG?width=100%&height=100%&ff=1&title=0&controls=0&a=1&download=1
+https://drive.usercontent.google.com/download?id=13_TcrxWghrSmOeo2Vxx0EN361fiO5nE3;export=download
 
 
 #EXTINF:-1 group-title="1.ORIGINAL HANYA DI - https://mylink.la/sooka" group-logo="https://i.ibb.co/L0VhP85/sooka.png" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.ibb.co/L0VhP85/sooka.png", WELCOME
