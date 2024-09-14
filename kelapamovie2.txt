@@ -38,13 +38,11 @@ https://onedrive-vercel-index-rouge.vercel.app/api/raw/?path=/Sheriff.2024.1080p
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 
 
-#EXTINF:-1 tvg-id:"AstroPrima" ch-number="105" tvg-name="PRIMA HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", 105 Astro Prima ( ⚠️ MAINTANANCE FROM SOOKA )
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id:"AstroPrima" ch-number="105" tvg-name="PRIMA HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", 105 Astro Prima
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type" :"Sementara" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
+https://9nmy.short.gy/Kitrima.mpd
 
 
 #EXTINF:-1 tvg-id="Astro Oasis HD" tvg-name="OASIS HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",106 Astro Oasis
