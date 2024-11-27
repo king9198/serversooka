@@ -1982,12 +1982,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/640x360/toon-goggles-icon-rectangle-diagonal-w-small-tg_0.jpg" group-title="Kids TV",Toon Googles
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/640x360_700000/index.m3u8
 
 
-#EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-name="Rick and Morty" tvg-logo="https://i.ibb.co/KqdpzJd/rick-and-morty.png" group-title="Kids TV", Rick and Morty TV
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="tes" tvg-logo="https://www.angrybirds.com/wp-content/uploads/2024/02/202402-AB15AnniversaryHorizontalLogo_1920x1080-1-e1708602177618-400x95.png" group-title="Kids TV", Angry Bird
@@ -2003,8 +1999,6 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_127.m3u8
 
 
-#EXTINF:-1 tvg-id="KidsStation.jp"  tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/41/Kids_Station_Logo.png/revision/latest?cb=20180301025209" group-title="Kids TV",Kids Station
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 
 
 ##########################################################  THAILAND  ##################################################################
