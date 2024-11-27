@@ -891,10 +891,12 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227925/3221227925.mpd?rrsip=web.hy
 #EXTINF:-1 group-title="UNIFI KIDS" group-logo="https://i.postimg.cc/7Zj9pCwV/Unifi-KIDS.png"
 
 #EXTINF:-1 tvg-id="UMOONBUG" tvg-name="Moonbug" group-title="UNIFI KIDS" tvg-logo="https://aqfadtv.xyz/logos/Moonbug.png",UNIFI 511 Moonbug HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5067
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"irCTravcNDuHNLfs8K6hGg", "kid":"48t0mXEHhusQX6t7UkWZEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default.mpd
+https://linearjitp-playback.astro.com.my:443/dash-wv/linear/5067/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="UDREAMWORKS" tvg-name="Dreamworks" group-title="UNIFI KIDS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/485_144.png",UNIFI 550 Dreamworks HD
@@ -1961,10 +1963,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="MoonbugKids" tvg-name="Moonbug Kids" group-title="Kids TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/465_144.png",618 Moonbug Kids
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5067
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"irCTravcNDuHNLfs8K6hGg", "kid":"48t0mXEHhusQX6t7UkWZEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default.mpd
+https://linearjitp-playback.astro.com.my:443/dash-wv/linear/5067/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" group-title="Kids TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/481_144.png",620 CBeebies HD
