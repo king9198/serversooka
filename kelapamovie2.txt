@@ -85,7 +85,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
 ######################################################  BOLA MALAYSIA ( MFL ) 🇲🇾  ####################################################
 
-#EXTINF:-1 group-title="BOLA MALAYSIA ( MFL ) 🇲🇾" group-logo="https://i.ibb.co/cb8LRPB/u.jpg"
+#EXTINF:-1 group-title="BOLA MALAYSIA ( MFL ) 🇲🇾" group-logo="https://i.ibb.co/THXz6yV/mfl.png"
 
 [ backup start ]
 
@@ -133,6 +133,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
 ############################################################  SPORTS  ##################################################################
 
+#EXTINF: group-title="Sports" group-logo="https://i.ibb.co/L0VhP85/sooka.png"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3}
@@ -199,7 +200,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd
 
 [ end backup ]
 
-#EXTINF: group-title="Sports" group-logo="https://i.ibb.co/L0VhP85/sooka.png"
+
 
 
 
@@ -579,6 +580,8 @@ https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 
 ####################################################  BOLA INGGERIS ( EPL ) 🏴󠁧󠁢󠁥󠁮󠁧󠁿  ###########################################
 
+#EXTINF:-1 group-title="BOLA INGGERIS ( EPL ) 🏴󠁧󠁢󠁥󠁮󠁧󠁿 " group-logo="https://s.yimg.com/ny/api/res/1.2/eMXjou4I0T4dDaekhdKYcg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk7Y2Y9d2VicA--/https://media.zenfs.com/en/creative_bloq_161/87fefa9e5a05f4e3b07c88f2fe805fcc"
+
 [ backp start ]
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -635,8 +638,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 
 [ backp end ]
-
-#EXTINF:-1 group-title="BOLA INGGERIS ( EPL ) 🏴󠁧󠁢󠁥󠁮󠁧󠁿 " group-logo="https://s.yimg.com/ny/api/res/1.2/eMXjou4I0T4dDaekhdKYcg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk7Y2Y9d2VicA--/https://media.zenfs.com/en/creative_bloq_161/87fefa9e5a05f4e3b07c88f2fe805fcc"
 
 
 #EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" group-title="BOLA INGGERIS ( EPL ) 🏴󠁧󠁢󠁥󠁮󠁧󠁿" tvg-logo="hhttps://i.ibb.co/JFxBMK2/spotv2.png",810 SPOTV 2
