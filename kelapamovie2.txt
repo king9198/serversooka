@@ -23,6 +23,56 @@ https://drive.usercontent.google.com/download?id=1mEpUPbRDd19Lj9U3M2QnCtxZKr0EKz
 #EXTINF:-1 group-title="SHERIFF" group-logo="https://i.ibb.co/sVFDmms/SHERIFF.webp" tvg-id="KING" ch-number="104" tvg-name="ENJOY" tvg-logo="https://i.ibb.co/sVFDmms/SHERIFF.webp", SHERIFF
 https://onedrive-vercel-index-rouge.vercel.app/api/raw/?path=/Sheriff.2024.1080p.mkv
 
+########################################################  Sports Backup  #############################################################
+
+#EXTINF:-1 group-title="Sports Backup" group-logo="https://i.ibb.co/L0VhP85/sooka.png"
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3}
+#EXTINF:-1 tvg-id="803.astro" tvg-channel="803" tvg-name="ARENA BOLA" tvg-logo="https://i.ibb.co/tZ0Y66J/486-144.png" group-title="Sports Backup",803 Astro Arena Bola Server B
+http://d37lxn4ksn51zz.cloudfront.net/bola1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb}
+#EXTINF:-1 tvg-id="804.astro" tvg-name="ARENA BOLA 2" ch-number="804" tvg-logo="https://i.ibb.co/vHy7ctp/487-144.png" group-title="Sports Backup",804 Astro Arena Bola 2 Server B
+http://d37lxn4ksn51zz.cloudfront.net/bola2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d}
+#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="Sports Backup",810 Astro Grandstand Server B
+http://d37lxn4ksn51zz.cloudfront.net/grand.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc}
+#EXTINF:-1 tvg-id="811.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" group-title="Sports Backup",811 Premier League Server B
+http://d37lxn4ksn51zz.cloudfront.net/premier1.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23}
+#EXTINF:-1 tvg-id="812.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="Sports Backup",812 Premier League 2 Server B
+http://d37lxn4ksn51zz.cloudfront.net/premier2.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e}
+#EXTINF:-1 tvg-id="814.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png" group-title="Sports Backup",814 Football Server B
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd}
+#EXTINF:-1 tvg-id="815.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png" group-title="Sports Backup",815 Astro Badminton Server B
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_primary.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4}
+#EXTINF:-1 tvg-id="817.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png" group-title="Sports Backup",817 Sports Plus Server B
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+
+
 
 ############################################################  ASTRO  ###################################################################
 
@@ -87,19 +137,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
 #EXTINF:-1 group-title="BOLA MALAYSIA ( MFL ) 🇲🇾" group-logo="https://i.ibb.co/THXz6yV/mfl.png"
 
-[ backup start ]
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3}
-#EXTINF:-1 tvg-id="803.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png" tvg-name="ARENA BOLA" group-title="BOLA MALAYSIA ( MFL ) 🇲🇾",803 Arena Bola Server B
-http://d37lxn4ksn51zz.cloudfront.net/bola1.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb}
-#EXTINF:-1 tvg-id="804.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" tvg-name="ARENA BOLA 2" group-title="BOLA MALAYSIA ( MFL ) 🇲🇾",804 Astro Arena Bola 2 Server B
-http://d37lxn4ksn51zz.cloudfront.net/bola2.mpd
-
-[ backup end ]
 
 #EXTINF:-1 group-title="BOLA MALAYSIA ( MFL ) 🇲🇾" tvg-id="803.astro" tvg-channel="803" tvg-name="ARENA BOLA" tvg-logo="https://i.ibb.co/tZ0Y66J/486-144.png" ,803 Arena Bola
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -128,74 +165,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 ############################################################  SPORTS  ##################################################################
 
 #EXTINF: group-title="Sports" group-logo="https://i.ibb.co/L0VhP85/sooka.png"
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3}
-#EXTINF:-1 tvg-id="803.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png" group-title="Sports",803 Astro Arena Bola Server B
-http://d37lxn4ksn51zz.cloudfront.net/bola1.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb}
-#EXTINF:-1 tvg-id="804.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" group-title="Sports",804 Astro Arena Bola 2 Server B
-http://d37lxn4ksn51zz.cloudfront.net/bola2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d}
-#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="Sports",810 Astro Grandstand Server B
-http://d37lxn4ksn51zz.cloudfront.net/grand.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc}
-#EXTINF:-1 tvg-id="811.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" group-title="Sports",811 Premier League Server B
-http://d37lxn4ksn51zz.cloudfront.net/premier1.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23}
-#EXTINF:-1 tvg-id="812.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="Sports",812 Premier League 2 Server B
-http://d37lxn4ksn51zz.cloudfront.net/premier2.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19}
-#EXTINF:-1 tvg-id="813.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague3_2024.png" group-title="Sports",813 Premier League 3 Server B
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_primary.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={3225f837a4b95d6e46683c53818c1710:3e1b57c06699c7e408e7aa49ff57d4f4}
-#EXTINF:-1 tvg-id="818.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague4_2024.png" group-title="Sports",818 Premier League 4 Server B
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_primary.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={229670469469aa6f78bc5bbe10071810:3b3ede68e8bb9d0d4e3b4517c422cccf}
-#EXTINF:-1 tvg-id="819.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague5_2024.png" group-title="Sports",819 Premier League 5 Server B
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_primary.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e}
-#EXTINF:-1 tvg-id="814.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png" group-title="Sports",814 Football Server B
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd}
-#EXTINF:-1 tvg-id="815.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png" group-title="Sports",815 Astro Badminton Server B
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_primary.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4}
-#EXTINF:-1 tvg-id="817.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png" group-title="Sports",817 Sports Plus Server B
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-
-[ end backup ]
-
-
-
 
 
 #EXTINF:-1 group-title="Sports" tvg-id="801.astro" tvg-name="ARENA HD" tvg-logo="https://i.ibb.co/8NRxfL0/235-144.png" ,801 Astro Arena
@@ -546,63 +515,6 @@ https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 ####################################################  BOLA INGGERIS ( EPL ) 🏴󠁧󠁢󠁥󠁮󠁧󠁿  ###########################################
 
 #EXTINF:-1 group-title="BOLA INGGERIS ( EPL ) 🏴󠁧󠁢󠁥󠁮󠁧󠁿 " group-logo="https://s.yimg.com/ny/api/res/1.2/eMXjou4I0T4dDaekhdKYcg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk7Y2Y9d2VicA--/https://media.zenfs.com/en/creative_bloq_161/87fefa9e5a05f4e3b07c88f2fe805fcc"
-
-[ backp start ]
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d}
-#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="BOLA INGGERIS ( EPL ) 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ",810 Grandstand Server B
-http://d37lxn4ksn51zz.cloudfront.net/grand.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc}
-#EXTINF:-1 tvg-id="811.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" group-title="BOLA INGGERIS ( EPL ) 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ",811 Premier League Server B
-http://d37lxn4ksn51zz.cloudfront.net/premier1.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23}
-#EXTINF:-1 tvg-id="812.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="BOLA INGGERIS ( EPL ) 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ",812 Premier League 2 Server B
-http://d37lxn4ksn51zz.cloudfront.net/premier2.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19}
-#EXTINF:-1 tvg-id="813.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague3_2024.png" group-title="BOLA INGGERIS ( EPL ) 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ",813 Premier League 3 Server B
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_primary.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={3225f837a4b95d6e46683c53818c1710:3e1b57c06699c7e408e7aa49ff57d4f4}
-#EXTINF:-1 tvg-id="818.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague4_2024.png" group-title="BOLA INGGERIS ( EPL ) 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ",818 Premier League 4 Server B
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_primary.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={229670469469aa6f78bc5bbe10071810:3b3ede68e8bb9d0d4e3b4517c422cccf}
-#EXTINF:-1 tvg-id="819.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague5_2024.png" group-title="BOLA INGGERIS ( EPL ) 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ",819 Premier League 5 Server B
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_primary.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e}
-#EXTINF:-1 tvg-id="814.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png" group-title="BOLA INGGERIS ( EPL ) 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ",814 Football Server B
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd}
-#EXTINF:-1 tvg-id="815.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png" group-title="BOLA INGGERIS ( EPL ) 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ",815 Badminton Server B
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_primary.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4}
-#EXTINF:-1 tvg-id="817.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png" group-title="BOLA INGGERIS ( EPL ) 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ",817 Sports Plus Server B
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-
-[ backp end ]
 
 
 #EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" group-title="BOLA INGGERIS ( EPL ) 🏴󠁧󠁢󠁥󠁮󠁧󠁿" tvg-logo="hhttps://i.ibb.co/JFxBMK2/spotv2.png",810 SPOTV 2
