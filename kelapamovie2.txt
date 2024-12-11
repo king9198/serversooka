@@ -140,7 +140,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
 #EXTINF:-1 group-title="BOLA MALAYSIA ( MFL ) 🇲🇾" tvg-id="803.astro" tvg-channel="803" tvg-name="ARENA BOLA" tvg-logo="https://i.ibb.co/tZ0Y66J/486-144.png" ,803 Arena Bola
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid2121pZCI6Ik5qSmlaamMzT1RNdE1qYzJOQzAwWVRRNUxUZzRNR0V0WmpVeE5UQmhaRGN6T1RJMyIsIndtb3BpZCI6MzIsImV4cCI6MTczNDM5NTMzNiwiaWF0IjoxNzMzNzkxMzM2fQ.0A-qdQgDFH3OrdeEhxPEmyxGvAa1ML5Nm0DTgWg7E5o"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5qSmlaamMzT1RNdE1qYzJOQAwWVRRNUxUZzRNR0V0WmpVeE5UQmhaRGN6T1RJMyIsIndtb3BpZCI6MzIsImV4cCI6MTczNDM5NTMzNiwiaWF0IjoxNzMzNzkxMzM2fQ.0A-qdQgDFH3OrdeEhxPEmyxGvAa1ML5Nm0DTgWg7E5o"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
