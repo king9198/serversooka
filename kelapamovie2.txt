@@ -49,7 +49,7 @@ https://4c0a6c7981954190aba1739e27e3dec8.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc}
 #EXTINF:-1 tvg-id="811.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" group-title="Sports Backup",811 Premier League Server B
-ttps://d14sysfrzu8fji.cloudfront.net/premier1.mpd
+https://d14sysfrzu8fji.cloudfront.net/premier1.mpd
 https://53308ba99bd1418388e4bff908902bf9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH26-dash/vsg/41ge_bwDU4oSWxTs_jQfa7UhBTv90jzKw--tnfa1mbZ-k=xi26/dash-wv/jitp-dashisowm/601/default_primary.mpd
 
 
