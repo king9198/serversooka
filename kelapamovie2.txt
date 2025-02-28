@@ -549,9 +549,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
 
 #EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="TV MALAYSIA 🇲🇾" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv3/index.m3u8
+#https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
+https://janton.whacat.me/tonton/TV3
 
 
 #EXTINF:-1 tvg-id="113" ch-number="113" tvg-name="TV6" group-title="TV MALAYSIA 🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/TV6_RTM.png", 113  TV6
@@ -660,9 +659,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
 
 #EXTINF:-1 tvg-id="UTV3" tvg-name="TV3" group-title="UNIFI TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",UNIFI 103 TV3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv3/index.m3u8
+#https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
+https://janton.whacat.me/tonton/TV3
 
 
 #EXTINF:-1 tvg-id="UTV9" tvg-name="TV9" group-title="UNIFI TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",UNIFI 103 TV9
