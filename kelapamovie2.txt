@@ -115,7 +115,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
 
 ############################################################  SPORTS  ##################################################################
 
-#EXTINF: group-title="Sports" group-logo="https://i.ibb.co/L0VhP85/sooka.png"
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" group-title="Sports" group-logo="https://i.ibb.co/L0VhP85/sooka.png"
 
 
 #EXTINF:-1 group-title="Sports" tvg-id="801.astro" tvg-name="ARENA HD" tvg-logo="https://i.ibb.co/8NRxfL0/235-144.png" ,801 Astro Arena
