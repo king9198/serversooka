@@ -482,7 +482,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 
 ####################################################  BOLA INGGERIS ( EPL ) 🏴󠁧󠁢󠁥󠁮󠁧󠁿  ###########################################
 
-#EXTINF:-1 group-title="BOLA INGGERIS ( EPL ) 🏴󠁧󠁢󠁥󠁮󠁧󠁿 " group-logo="https://s.yimg.com/ny/api/res/1.2/eMXjou4I0T4dDaekhdKYcg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk7Y2Y9d2VicA--/https://media.zenfs.com/en/creative_bloq_161/87fefa9e5a05f4e3b07c88f2fe805fcc"
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" group-title="BOLA INGGERIS ( EPL ) 🏴󠁧󠁢󠁥󠁮󠁧󠁿 " group-logo="https://s.yimg.com/ny/api/res/1.2/eMXjou4I0T4dDaekhdKYcg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk7Y2Y9d2VicA--/https://media.zenfs.com/en/creative_bloq_161/87fefa9e5a05f4e3b07c88f2fe805fcc"
 
 
 #EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" group-title="BOLA INGGERIS ( EPL ) 🏴󠁧󠁢󠁥󠁮󠁧󠁿" tvg-logo="hhttps://i.ibb.co/JFxBMK2/spotv2.png",810 SPOTV 2
